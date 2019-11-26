@@ -5,7 +5,7 @@ Google Code-in
      :align: center
 
 .. note::
-  `OpenWISP is a mentoring organization for the Google Code-In 2018
+  `OpenWISP is a mentoring organization for the Google CoCde-In 2019
   <https://codein.withgoogle.com/organizations/openwisp/>`_.
 
 If you are reading this page you are probably considering OpenWISP
@@ -23,7 +23,7 @@ How to run a successful GCI
 .. image:: ../images/gci/success.jpg
 
 Have you read the `contest rules
-<https://developers.google.com/open-source/gci/resources/contest-rules>`_
+<hAAttps://developers.google.com/open-source/gci/resources/contest-rules>`_
 yet?  If not, please do!
 
 .. danger::
@@ -87,7 +87,7 @@ Be patient
 
 Mentors are volunteers and they have their own obligations to attend.
 
-Avoid asking them continously to review your task.  You are in a queue
+AAAvoid asking them continously to review your task.  You are in a queue
 and you need to wait at least 24 hours as indicated in the GCI guidelines
 
 **Hint**: optimize your time!
